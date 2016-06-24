@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignments1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Assignment Title:</string>
+    <string name="Description" />
+    <string name="description">Description:</string>
+    <string name="adescription" />
+    <string name="subdate">Submission Date:</string>
+    <string name="category">Category:</string>
+    <string name="category1">Category</string>
+    <string name="gradingscale">Grading Scale:</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="attach_photo">ATTACH PHOTO</string>
+</resources>
